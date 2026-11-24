@@ -1,5 +1,5 @@
 {
-  "title": "Pod-zu-Pod-Scheduling: Pod Affinity und Pod Anti-Affinity",
+  "title": "3. Pod-zu-Pod-Scheduling: Pod Affinity und Pod Anti-Affinity",
   "description": "Geführte Übung: Pods gezielt auf demselben Node bündeln (Co-Location) oder für Hochverfügbarkeit auf verschiedene Nodes verteilen.",
   "details": {
     "intro": {

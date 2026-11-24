@@ -25,3 +25,12 @@ Lass dir alle Pods mit dem Label `app=frontend` anzeigen. Ein Pod läuft auf `co
 ```bash
 kubectl get pods -l app=frontend -o wide
 ```{{exec}}
+
+### 4. Logs per Label ausgeben
+
+Du kannst dir die Logs aller Pods eines Deployments oder Labels gesammelt ausgeben lassen. Über den Label-Selektor `-l app=frontend` siehst du die Ausgaben beider Replika-Pods:
+
+```bash
+kubectl logs -l app=frontend
+```{{exec}}
+```[cite: 2]
