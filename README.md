@@ -1,7 +1,7 @@
 # killercoda-kubernetes-demos-de
 Dieses Repository beinhaltet deutschsprachige Kubernetes-Übungen, die
-auf [killercoda.com](https://killercoda.com) ausgeführt werden können.
+auf [killercoda.com/kubernetes-demos-de](https://killercoda.com/kubernetes-demos-de) ausgeführt werden können.
 
 This repository contains German-language Kubernetes exercises that can
-be run on [killercoda.com](https://killercoda.com).
+be run on [killercoda.com/kubernetes-demos-de](https://killercoda.com/kubernetes-demos-de).
 
