@@ -1,0 +1,15 @@
+{
+  "title": "Kubernetes Pod-Scheduling in der Praxis",
+  "description": "Geführte Übungsreihe von einfachen Node-Labels bis zu Node Affinity, Taints & Tolerations sowie Pod Affinity & Anti-Affinity.",
+  "items": [
+    {
+      "path": "01_nodeselector"
+    },
+    {
+      "path": "02_affinity-taints"
+    },
+    {
+      "path": "03_pod-anti-affinity"
+    }
+  ]
+}
